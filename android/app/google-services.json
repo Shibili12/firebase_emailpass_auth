@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "861107097834",
+    "project_id": "myproject2-5812f",
+    "storage_bucket": "myproject2-5812f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861107097834:android:bf7ee9a0d6c2e7664c4793",
+        "android_client_info": {
+          "package_name": "com.example.firebase_emailpass_auth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8OETZ9rwc2ytUGPrjvHlIXdouGG3UMkc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
